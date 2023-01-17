@@ -1,0 +1,2 @@
+So far I have learned a few basic Git commands!
+Some of them include git status, git add, git commit, and git log!
