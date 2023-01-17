@@ -1,2 +1,6 @@
 So far I have learned a few basic Git commands!
 Some of them include git status, git add, git commit, and git log!
+
+I made another edit that I am going to commit. 
+I changed the configuration of git, so now commit messages can be made inside a new tab in VSCode.
+Lets see if it works!
